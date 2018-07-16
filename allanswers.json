@@ -1,0 +1,5 @@
+[
+{"name": "Angelina", "age": "33", "height": "5'7\"", "candyOrFruit": "candy", "foodType": "4", "personality": "extroverted"},
+{"name": "Camille", "age": "12", "height": "200", "candyOrFruit": "candy", "foodType": "2", "personality": "introverted"},
+{"name": "Bob", "age": "21", "height": "234", "candyOrFruit": "fruit", "foodType": "1", "personality": "both"}
+]
